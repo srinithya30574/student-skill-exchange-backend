@@ -1,0 +1,13 @@
+spring.application.name=student-skill-exchange
+
+# Database connection (change the password to YOUR MySQL password)
+spring.datasource.url=jdbc:mysql://localhost:3306/student_skill_exchange
+spring.datasource.username=root
+spring.datasource.password=Srinithya@1
+
+# JPA / Hibernate settings
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+# Server port
+server.port=8080
