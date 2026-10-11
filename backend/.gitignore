@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+# Protect database credentials
+/src/main/resources/application.properties
+
+# Ignore generated and local files
+/target/
+/.idea/
