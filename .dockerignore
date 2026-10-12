@@ -1,0 +1,5 @@
+**/node_modules
+**/target
+**/dist
+.git
+backend/src/main/resources/application.properties
